@@ -1,0 +1,28 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .calculator {
+    border: 1px solid #db0b0b;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  button {
+    width: 50px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  
+body{
+    background-color: rgb(110, 106, 106);
+}
+
+
+
+
+
